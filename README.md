@@ -10,5 +10,5 @@
    </a>
 </div>
            
-![Preview]           (https://itstommi.vercel.app/api?rainbow=true)
+![Preview](https://itstommi.vercel.app/api?rainbow=true)
 
