@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/795761865690316811)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/795761865690316811)](https://discord.com/users/795761865690316811)
 
