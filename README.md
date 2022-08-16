@@ -1,3 +1,10 @@
+## About Me
+Merhaba, ben Mert. 18 yaşında, kendi halinde bir yazılım
+öğrencisiyim. Yaklaşık 2 yıl önce Discord botları geliştirerek 
+başladığım yazılım serüvenine Full Stack Web Developing öğrencisi
+olarak devam ediyorum. Aktif olarak JavaScript diline hakimim.
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
