@@ -1,4 +1,6 @@
- 
+ # Github Stat's
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motivecik)](https://github.com/motivecik)
+
 # Contact 
 <p align="center">
   <a href="https://discord.com/users/795761865690316811" target"blank_"><img src="https://shields.io/badge/Motive-111111.svg?&style=for-the-badge&logo=discord"></a>
