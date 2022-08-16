@@ -8,7 +8,7 @@
    <a href="https://discord.com/users/795761865690316811" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
    </a>
-</div>
 
- <p align="center">
 ![Preview](https://itstommi.vercel.app/api?rainbow=true)
+
+</div>
