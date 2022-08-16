@@ -1,5 +1,5 @@
  # Github Stat's
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motivecik)](https://github.com/motivecik)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=motivecik&theme=radical&show_icons=true&hide_border=true&border_radius)](https://github.com/motivecik)
 
 # Contact 
 <p align="center">
