@@ -2,6 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=motivecik&theme=radical&show_icons=true&&hide_border=true)](https://github.com/motivecik)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motivecik&layout=compact)](https://github.com/motivecik)
 # Contact 
+<p align="center">
   <a href="https://discord.com/users/795761865690316811" target"blank_"><img src="https://shields.io/badge/Motive-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/motivecik" target"blank_"><img src="https://shields.io/badge/motivecik-111111.svg?&style=for-the-badge&logo=github"></a>
   <a href="https://www.npmjs.com/~motivecik" target"blank_"><img src="https://shields.io/badge/motivecik-111111.svg?&style=for-the-badge&logo=npm"></a>
