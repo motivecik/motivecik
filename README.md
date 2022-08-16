@@ -1,6 +1,6 @@
 # **<div align="center"><👋 Hello Friends/></div>**  
 
-## About Me
+**About Me**
 <div align="center">Merhaba, ben Mert. 18 yaşında, kendi halinde bir yazılım
 öğrencisiyim. Yaklaşık 2 yıl önce Discord botları geliştirerek 
 başladığım yazılım serüvenine Full Stack Web Developing öğrencisi
