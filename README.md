@@ -10,4 +10,5 @@
    </a>
 </div>
 
+ <p align="center">
 ![Preview](https://itstommi.vercel.app/api?rainbow=true)
