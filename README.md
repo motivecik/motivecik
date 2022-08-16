@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/795761865690316811)](https://discord.com/users/795761865690316811)
+</div>
+<div align="center">
+   <a href="https://discord.com/users/795761865690316811" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
+   </a>
+</div>
 
