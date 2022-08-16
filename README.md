@@ -9,3 +9,5 @@
       <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
    </a>
 </div>
+
+![Prewiew](https://itstommi.vercel.app/api?theme=dark?rainbow=true)
