@@ -10,4 +10,4 @@
    </a>
 </div>
  <p align="center">
-<a ![Prewiew](https://itstommi.vercel.app/api?rainbow=true)</a>
+![Prewiew](https://itstommi.vercel.app/api?rainbow=true)</a>
