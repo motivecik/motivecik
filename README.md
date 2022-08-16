@@ -6,9 +6,10 @@
    <a href="https://open.spotify.com/user/9vedqsjezbteu0vx5h4hbro85" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
    <a href="https://github.com/motivecik" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a href="https://instagram.com/m3rtcim" target"blank_"><img src="https://img.shields.io/badge/Instagram%20-111111.svg?&style=for-the-badge&logo=instagramor=white"></a>
-
-## Ready
-<a href="https://discord.com/users/795761865690316811" target="_blank">
+ 
+ <a href="https://discord.com/users/795761865690316811" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/795761865690316811?bg=111111">
+
+## Spotify Playing..
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9vedqsjezbteu0vx5h4hbro85&cover_image=true&theme=default)](https://github.com/motivecik/motivecik)
 
